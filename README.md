@@ -2,7 +2,7 @@
 
 I am `binbash`, I love to code, to engineer, to invent, to research. <br>
 
-Currently, I am a student studying my M.Sc. in Informatics at the Technical University of Munich. My interests broadly span:
+Currently, I am a student in a M.Sc. Informatics program at the Technical University of Munich. My interests broadly span:
 
 - Deep learning
     - Solving problems in a data-driven fashion
