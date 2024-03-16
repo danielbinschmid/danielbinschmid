@@ -9,7 +9,7 @@ Currently, I am a student in a M.Sc. Informatics program at the Technical Univer
     - Low-level engineering with neural networks
     - Research theoretical foundations
 - Cloud-engineering (cloud-APIs, BackEnd dev, cloud architecting)
-- Reinforcement learning in Robotics
+- Reinforcement learning in robotics
 - HCI (human-computer-interaction) applications
 
 ## Stats x Appendix
