@@ -1,6 +1,6 @@
 # Hello world!
 
-![](https://komarev.com/ghpvc/?username=danielbinschmid)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=danielbinschmid&label=Profile%20views&color=0e75b6&style=flat" alt="kis-balazs" /> </p>
 
 <!-- status codes -->
 <a align="center">
