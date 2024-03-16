@@ -6,7 +6,7 @@ Currently, I am a student in a M.Sc. Informatics program at the Technical Univer
 
 - Deep learning
     - Solving problems in a data-driven fashion
-    - Low-level engineering with neural networks
+    - Hardware-close optimizations of neural networks
     - Research theoretical foundations
 - Cloud-engineering (cloud-APIs, BackEnd dev, cloud architecting)
 - Reinforcement learning in robotics
