@@ -6,10 +6,11 @@ Currently, I am a student in a M.Sc. Informatics program at the Technical Univer
 
 - Deep learning
     - Solving problems in a data-driven fashion
-    - Hardware-close optimizations of neural networks
+    - Hardware acceleration of neural networks
     - Research theoretical foundations
-- Cloud-engineering (cloud-APIs, BackEnd dev, cloud architecting)
+- Brain-Computer-Interfaces
 - Reinforcement learning in robotics
+- Cloud-engineering (cloud-APIs, BackEnd dev, cloud architecting)
 - HCI (human-computer-interaction) applications
 
 ## Stats x Appendix
