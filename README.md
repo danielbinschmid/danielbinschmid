@@ -2,17 +2,6 @@
 
 I am `binbash`, I love to code, to engineer, to invent, to research. <br>
 
-Currently, I am a student in a M.Sc. Informatics program at the Technical University of Munich. My interests broadly span:
-
-- Deep learning
-    - Solving problems in a data-driven fashion
-    - Hardware acceleration of neural networks
-    - Research theoretical foundations
-- Brain-Computer-Interfaces
-- Reinforcement learning in robotics
-- Cloud-engineering (cloud-APIs, BackEnd dev, cloud architecting)
-- HCI (human-computer-interaction) applications
-
 ## Stats x Appendix
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danielbinschmid&label=Profile%20views&color=0e75b6&style=flat" alt="kis-balazs" /> </p>
